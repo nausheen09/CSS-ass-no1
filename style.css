@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(215, 38, 38);
+}
+
+@font-face {
+    font-family: "coolvetica rg.otf";
+    src: url(font/coolvetica\ rg.otf);
+}
+
+@font-face {
+    font-family: "SPETETRIAL.ttf";
+    src: url(font/SPETETRIAL.ttf);
+}
+
+#abc{
+    background-color: rgb(255, 255, 250);
+    width: 75%;
+}
+
+.efg{
+        width: 80%;
+ }
+
+.first{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-family: "coolvetica rg.otf";
+    text-align: center;
+    word-spacing: 150px;
+    letter-spacing: 3px;
+    height: 50px;    
+}
+
+.second{
+ font-family:"SPETETRIAL.ttf" ;
+ word-spacing:70px;
+ letter-spacing: 2px;
+ font-size: 50px ;
+}
+
+.third{
+ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ text-align: justify;
+ line-height: 1.4em;
+}
+
+.efg img{
+    width: 100%;
+    height: 440px;
+}
+.efg table{
+    width: 100%;
+}
+.efg tr{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform:capitalize ;
+    text-align: center;
+}
+ .efg tr img{
+    width:260px;
+    height: 270px;
+ }
